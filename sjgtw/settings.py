@@ -29,6 +29,12 @@ DOWNLOADER_MIDDLEWARES = {
     # 'scrapy.contrib.downloadermiddleware.httpproxy.HttpProxyMiddleware': 110,
 }
 
+MONGODB_SERVER = 'guaxiaoda.cn'
+MONGODB_PORT = 27017
+MONGODB_DB = 'sjgtwdb'
+MONGODB_COLLECTION_LINKS = 'sjgtw_catalog'
+MONGODB_COLLECTION = 'sjgtw_goods'
+
 # Proxy list containing entries like
 # http://host1:port
 # http://username:password@host2:port
