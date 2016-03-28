@@ -5,6 +5,7 @@ import scrapy
 from sjgtw.items import SjgtwItem
 import os
 import json
+from scrapy import log
 
 
 class sjgtwSpider(scrapy.Spider):
@@ -91,17 +92,17 @@ class sjgtwSpider(scrapy.Spider):
                 if len(dis) > 0:
                     item['dis'] = dis[0].extract()
 
-            # item['texture']
-            # item['num']
-            # item['standard']
-            # item['train_mod']
-            # item['certify']
-            # item['preparation']
-            # item['deliver_or_not']
-            # item['dis']
+                    # item['texture']
+                    # item['num']
+                    # item['standard']
+                    # item['train_mod']
+                    # item['certify']
+                    # item['preparation']
+                    # item['deliver_or_not']
+                    # item['dis']
                 item['url'] = response.url
 
-            # print(response.url + "{\n" + json.dumps(dict(item)) + "}")
+                # print(response.url + "{\n" + json.dumps(dict(item)) + "}")
                 yield item
 
         next = response.xpath("//li[@class='next'][1]/a")
@@ -110,6 +111,7 @@ class sjgtwSpider(scrapy.Spider):
             frmdata = {
                 "pageNo": int(nextPage)
             }
+            log.msg("request: %s & %s " % (response.url, nextPage))
             yield scrapy.FormRequest(response.url, callback=self.parse, headers=self.headers,
                                      formdata={"pageNo": nextPage})
 
