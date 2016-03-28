@@ -1,20 +1,25 @@
 # -*- coding: utf-8 -*-
 
 import scrapy
+
 from sjgtw.items import SjgtwItem
-from scrapy.selector import Selector
-from scrapy.http import FormRequest
 import os
+import json
 
 
 class sjgtwSpider(scrapy.Spider):
+    # reload(sys)
+    # sys.setdefaultencoding('utf-8')
     name = 'sjgtw'
     allow_domains = ["sjgtw.com"]
     path = os.getcwd()
-    f = open('./sjgtw/start_urls.txt', 'r')
-
-    start_urls = f.readlines()
+    f = open('./sjgtw/sjgtw_leaves.json', 'r')
+    jsonList = json.load(f)
     f.close()
+
+    start_urls = []
+    for jo in jsonList:
+        start_urls.append(jo['url'])
 
     headers = {
         "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
@@ -26,19 +31,77 @@ class sjgtwSpider(scrapy.Spider):
         for line in response.xpath("//table[@id='goodsClassTable']/tbody/tr"):
 
             id = line.xpath("./@id")[0].extract()
+            dataNum = line.xpath("./@data").extract()
             if id.find('child') == -1:
-                # 标题行
+                # - title line -
                 item = SjgtwItem()
-                item['name'] = line.xpath('./td[1]/text()')[0].extract()
-                item['model'] = line.xpath('./td[2]/text()')[0].extract()
-                item['unit'] = line.xpath('./td[3]/text()')[0].extract()
-                item['price'] = line.xpath('./td[4]/text()')[0].extract()
-                item['address'] = line.xpath('./td[5]/text()')[0].extract()
-                item['brand'] = line.xpath('./td[6]/text()')[0].extract()
-                item['manufacturer'] = line.xpath('./td[7]/a/text()')[0].extract()
-                item['manufacturer_url'] = "http://www.sjgtw.com%s" % line.xpath('./td[7]/a/@href')[0].extract().encode("utf-8")
+                name = line.xpath('./td[1]/text()')
+                if len(name) > 0:
+                    item['name'] = name[0].extract()
+                model = line.xpath('./td[2]/text()')
+                if len(model) > 0:
+                    item['model'] = model[0].extract()
+                unit = line.xpath('./td[3]/text()')
+                if len(unit) > 0:
+                    item['unit'] = unit[0].extract()
+                price = line.xpath('./td[4]/text()')
+                if len(price) > 0:
+                    item['price'] = price[0].extract()
+                address = line.xpath('./td[5]/text()')
+                if len(address) > 0:
+                    item['address'] = address[0].extract()
+                brand = line.xpath('./td[6]/text()')
+                if len(brand) > 0:
+                    item['brand'] = brand[0].extract()
+                manufacturer = line.xpath('./td[7]/a/text()')
+                if len(manufacturer) > 0:
+                    item['manufacturer'] = manufacturer[0].extract()
+                    item['manufacturer_url'] = "http://www.sjgtw.com%s" % line.xpath("./td[7]/a/@href")[0].extract().encode("utf-8")
+                    # href = manufacturer[0].xpath("./..")
+                    # print(href)
+                    #
+                addition = line.xpath('./td[7]/a/text()')
+                if len(addition) > 0:
+                    item['addition'] = addition[0].extract()
+                # - detail line -
+                # //table[@id='goodsClassTable']/tbody/tr[@id='row_0']/following-sibling::*[1]
+                detailLine = line.xpath("./following-sibling::*[1]")
+                upList = detailLine.xpath("./td/div[1]//tr[@trstepprice]//text()")
+                if len(upList) > 0:
+                    up = ""
+                    for u in upList:
+                        up += u.extract()
+                    item['unit_price'] = up
+                infoList = detailLine.xpath("./td/div[2]/dl/dd")
+                if len(infoList) > 0:
+                    texture = infoList[0].xpath("./text()").extract()
+                    item['texture'] = texture
+                    num = infoList[1].xpath("./text()").extract()
+                    item['num'] = num
+                    standard = infoList[2].xpath("./text()").extract()
+                    item['standard'] = standard
+                    train_mod = infoList[3].xpath("./text()").extract()
+                    item['train_mod'] = train_mod
+                    certify = infoList[4].xpath("./text()").extract()
+                    item['certify'] = certify
+                    preparation = infoList[5].xpath("./text()").extract()
+                    item['preparation'] = preparation
+                item['deliver_or_not'] = None
+                dis = detailLine.xpath("./td/div[3]/div/label[contains(@id,'distance')]/span/text()")
+                if len(dis) > 0:
+                    item['dis'] = dis[0].extract()
 
-                print(item['name'] + response.url)
+            # item['texture']
+            # item['num']
+            # item['standard']
+            # item['train_mod']
+            # item['certify']
+            # item['preparation']
+            # item['deliver_or_not']
+            # item['dis']
+                item['url'] = response.url
+
+            # print(response.url + "{\n" + json.dumps(dict(item)) + "}")
                 yield item
 
         next = response.xpath("//li[@class='next'][1]/a")

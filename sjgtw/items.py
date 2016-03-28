@@ -10,6 +10,7 @@ import scrapy
 
 class SjgtwItem(scrapy.Item):
     # define the fields for your item here like:
+    dataNum = scrapy.Field()
     name = scrapy.Field()
     model = scrapy.Field()
     unit = scrapy.Field()
