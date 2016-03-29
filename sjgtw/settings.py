@@ -13,7 +13,7 @@ DOWNLOAD_DELAY = 2
 SPIDER_MODULES = ['sjgtw.spiders']
 NEWSPIDER_MODULE = 'sjgtw.spiders'
 
-# LOG_FILE = "run.log"
+LOG_FILE = "run.log"
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 # USER_AGENT = 'sjgtw (+http://www.yourdomain.com)'
@@ -27,8 +27,8 @@ RETRY_HTTP_CODES = [500, 503, 504, 400, 403, 404, 408]
 DOWNLOADER_MIDDLEWARES = {
     'scrapy.contrib.downloadermiddleware.retry.RetryMiddleware': 90,
     # Fix path to this module
-    # 'sjgtw.middlewares.RandomProxy': 100,
-    # 'scrapy.contrib.downloadermiddleware.httpproxy.HttpProxyMiddleware': 110,
+     'sjgtw.middlewares.RandomProxy': 100,
+     'scrapy.contrib.downloadermiddleware.httpproxy.HttpProxyMiddleware': 110,
 }
 
 ITEM_PIPELINES={
