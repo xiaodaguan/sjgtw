@@ -39,4 +39,4 @@ ITEM_PIPELINES={
 # http://username:password@host2:port
 # http://host3:port
 # ...
-PROXY_LIST = '/Users/guanxiaoda/Documents/workspace/scrapy/sjgtw/proxys.txt'
+PROXY_LIST = 'proxys.txt'

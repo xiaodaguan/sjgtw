@@ -35,10 +35,14 @@ class sjgtwSpider(scrapy.Spider):
         for line in response.xpath("//table[@id='goodsClassTable']/tbody/tr"):
 
             id = line.xpath("./@id")[0].extract()
-            dataNum = line.xpath("./@data").extract()
+
             if id.find('child') == -1:
                 # - title line -
                 item = SjgtwItem()
+
+                dataNum = line.xpath("./@data")
+                if len(dataNum) > 0:
+                    item['dataNum'] = dataNum[0].extract()
                 name = line.xpath('./td[1]/text()')
                 if len(name) > 0:
                     item['name'] = name[0].extract()

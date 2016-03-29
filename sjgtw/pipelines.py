@@ -19,11 +19,11 @@ class SjgtwPipeline(object):
 
     def process_item(self, item, spider):
         valid = True
-        if item['name'] and item['model'] and item['price']:
-            valid = True
-        else:
-            valid = False
-            DropItem('info not complete %s ' % item['name'])
+        # if item['name'] and item['model'] and item['price']:
+        #     valid = True
+        # else:
+        #     valid = False
+        #     DropItem('info not complete %s ' % item['name'])
 
         if valid:
             self.collection.insert(dict(item))
