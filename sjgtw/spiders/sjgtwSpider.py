@@ -13,14 +13,17 @@ class sjgtwSpider(scrapy.Spider):
     # sys.setdefaultencoding('utf-8')
     name = 'sjgtw'
     allow_domains = ["sjgtw.com"]
+
+    # urls to crawl
     path = os.getcwd()
     f = open('./sjgtw/sjgtw_leaves.json', 'r')
     jsonList = json.load(f)
     f.close()
-
     start_urls = []
     for jo in jsonList:
         start_urls.append(jo['url'])
+
+
 
     headers = {
         "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",

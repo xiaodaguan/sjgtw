@@ -13,8 +13,9 @@ class SjgtwPipeline(object):
     def __init__(self):
         connection = pymongo.MongoClient("mongodb://guanxiaoda.cn:27017")
         db = connection['sjgtwdb']
-
         self.collection = db['sjgtw_info']
+        # item crawled before
+
 
     def process_item(self, item, spider):
         valid = True

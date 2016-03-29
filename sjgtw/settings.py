@@ -9,7 +9,7 @@
 #
 
 BOT_NAME = 'sjgtw'
-DOWNLOAD_DELAY = 5
+DOWNLOAD_DELAY = 1
 SPIDER_MODULES = ['sjgtw.spiders']
 NEWSPIDER_MODULE = 'sjgtw.spiders'
 
@@ -18,15 +18,15 @@ NEWSPIDER_MODULE = 'sjgtw.spiders'
 
 
 # Retry many times since proxies often fail
-RETRY_TIMES = 3
+RETRY_TIMES = 5
 # Retry on most error codes since proxies fail for different reasons
 RETRY_HTTP_CODES = [500, 503, 504, 400, 403, 404, 408]
 
 DOWNLOADER_MIDDLEWARES = {
-    # 'scrapy.contrib.downloadermiddleware.retry.RetryMiddleware': 90,
-    # # Fix path to this module
-    # 'sjgtw.middlewares.RandomProxy': 100,
-    # 'scrapy.contrib.downloadermiddleware.httpproxy.HttpProxyMiddleware': 110,
+    'scrapy.contrib.downloadermiddleware.retry.RetryMiddleware': 90,
+    # Fix path to this module
+    'sjgtw.middlewares.RandomProxy': 100,
+    'scrapy.contrib.downloadermiddleware.httpproxy.HttpProxyMiddleware': 110,
 }
 
 ITEM_PIPELINES={
