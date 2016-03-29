@@ -70,11 +70,12 @@ class sjgtwSpider(scrapy.Spider):
         if count == 0:
             log.msg("no item found on this page : %s" % response.url)
             return
-        url_crawled_count = self.urlItems[response.url]
-        if url_crawled_count:
-            if float(count)/float(url_crawled_count) > 0.95:
-                log.msg("url has been crawled completely: %s " % response.url)
-                return
+        if response.url in self.urlItems:
+            url_crawled_count = self.urlItems[response.url]
+            if url_crawled_count:
+                if float(count)/float(url_crawled_count) > 0.95:
+                    log.msg("url has been crawled completely: %s " % response.url)
+                    return
 
         for line in response.xpath("//table[@id='goodsClassTable']/tbody/tr"):
 
