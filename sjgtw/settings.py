@@ -9,16 +9,18 @@
 #
 
 BOT_NAME = 'sjgtw'
-DOWNLOAD_DELAY = 1
+DOWNLOAD_DELAY = 2
 SPIDER_MODULES = ['sjgtw.spiders']
 NEWSPIDER_MODULE = 'sjgtw.spiders'
+
+# LOG_FILE = "run.log"
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 # USER_AGENT = 'sjgtw (+http://www.yourdomain.com)'
 
 
 # Retry many times since proxies often fail
-RETRY_TIMES = 5
+RETRY_TIMES = 3
 # Retry on most error codes since proxies fail for different reasons
 RETRY_HTTP_CODES = [500, 503, 504, 400, 403, 404, 408]
 

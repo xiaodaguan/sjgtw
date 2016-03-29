@@ -55,6 +55,7 @@ class RandomProxy(object):
         proxy_user_pass = self.proxies[proxy_address]
 
         request.meta['proxy'] = proxy_address
+        log.msg("using proxy %s" %proxy_address)
         if proxy_user_pass:
             basic_auth = 'Basic ' + base64.encodestring(proxy_user_pass)
             request.headers['Proxy-Authorization'] = basic_auth
