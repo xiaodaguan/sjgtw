@@ -43,6 +43,7 @@ class SjgtwPipeline(object):
         if item['dataNum'] in self.dataNumCrawled:
             valid = False
             DropItem('item crawled before> %s < ' % item['name'])
+            log.err('item crawled before> %s:%s < ' % (item['name'],item['dataNum']))
         else:
             valid = True
 

@@ -6,6 +6,8 @@ from sjgtw.items import SjgtwItem
 import os
 import json
 from scrapy import log
+import re
+import pymongo
 
 
 class sjgtwSpider(scrapy.Spider):
@@ -30,8 +32,50 @@ class sjgtwSpider(scrapy.Spider):
         "Cookie": "clientId=38681443894000; clientId=38681446210000; JSESSIONID=372570A67852F5343A0E9C01BA4F5F6D; Hm_lvt_8908fa41684e227cc7f033849052cd8a=1458723279; Hm_lpvt_8908fa41684e227cc7f033849052cd8a=1458723806; CNZZDATA1256025023=1839444177-1458720018-%7C1458720018"
     }
 
+    def __init__(self):
+        connection = pymongo.MongoClient("mongodb://guanxiaoda.cn:27017")
+        db = connection['sjgtwdb']
+        collection = db['sjgtw_info']
+        # item crawled before
+        log.msg("loading crawled items from each url...")
+        self.urlItems = {}
+        pipeline = [
+            {
+                "$group":{
+                    "_id":"$url","count":{"$sum":1}
+                }
+            }
+        ]
+
+        result = list(collection.aggregate(pipeline))
+        for i,item in enumerate(result):
+            self.urlItems[item['_id']] = item['count']
+            if i % 100 == 0 : print(i)
+        log.msg("read %d crawled urls" % len(result))
+        super(sjgtwSpider, self).__init__()
+
+
     def parse(self, response):
         print(">> parsing..." + response.url)
+        count = 0
+        resultCount = response.xpath("//div[@class='result']/text()")
+        if len(resultCount) > 0:
+            text = resultCount[0].extract().encode('utf-8')
+            countStr = text[text.find("共")+3:text.find("条")]
+            count = int(countStr)
+        else:
+            line = response.xpath("//table[@id='goodsClassTable']/tbody/tr[not(contains(@id,'child'))]")
+            if len(line) > 0:
+                count = len(line)
+        if count == 0:
+            log.msg("no item found on this page : %s" % response.url)
+            return
+        url_crawled_count = self.urlItems[response.url]
+        if url_crawled_count:
+            if float(count)/float(url_crawled_count) > 0.95:
+                log.msg("url has been crawled completely.")
+                return
+
         for line in response.xpath("//table[@id='goodsClassTable']/tbody/tr"):
 
             id = line.xpath("./@id")[0].extract()
