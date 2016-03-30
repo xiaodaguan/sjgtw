@@ -1,5 +1,4163 @@
 [
   {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=5",
+    "name": "炼钢生铁",
+    "parentClickId": 4,
+    "level": "5级",
+    "clickId": 5
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=6",
+    "name": "铸造生铁",
+    "parentClickId": 4,
+    "level": "5级",
+    "clickId": 6
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=7",
+    "name": "含钒生铁",
+    "parentClickId": 4,
+    "level": "5级",
+    "clickId": 7
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=8",
+    "name": "其他生铁",
+    "parentClickId": 4,
+    "level": "5级",
+    "clickId": 8
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=10",
+    "name": "硅铁、硅钙、硅钡、硅铝合金",
+    "parentClickId": 9,
+    "level": "5级",
+    "clickId": 10
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=11",
+    "name": "锰铁、合金锰、硅锰合金",
+    "parentClickId": 9,
+    "level": "5级",
+    "clickId": 11
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=13",
+    "name": "钛铁",
+    "parentClickId": 12,
+    "level": "6级",
+    "clickId": 13
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=14",
+    "name": "钒铁",
+    "parentClickId": 12,
+    "level": "6级",
+    "clickId": 14
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=15",
+    "name": "钨铁",
+    "parentClickId": 12,
+    "level": "6级",
+    "clickId": 15
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=16",
+    "name": "钼铁",
+    "parentClickId": 12,
+    "level": "6级",
+    "clickId": 16
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=17",
+    "name": "铬铁、金属铬",
+    "parentClickId": 9,
+    "level": "5级",
+    "clickId": 17
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=19",
+    "name": "硼铁",
+    "parentClickId": 18,
+    "level": "6级",
+    "clickId": 19
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=20",
+    "name": "磷铁",
+    "parentClickId": 18,
+    "level": "6级",
+    "clickId": 20
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=21",
+    "name": "稀土铁合金",
+    "parentClickId": 9,
+    "level": "5级",
+    "clickId": 21
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=23",
+    "name": "可锻铸铁件",
+    "parentClickId": 22,
+    "level": "5级",
+    "clickId": 23
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=24",
+    "name": "球墨铸铁件",
+    "parentClickId": 22,
+    "level": "5级",
+    "clickId": 24
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=25",
+    "name": "其他铸铁件",
+    "parentClickId": 22,
+    "level": "5级",
+    "clickId": 25
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=29",
+    "name": "碳素结构钢热轧圆钢",
+    "parentClickId": 28,
+    "level": "6级",
+    "clickId": 29
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=30",
+    "name": "镀锌碳素结构钢热轧圆钢",
+    "parentClickId": 28,
+    "level": "6级",
+    "clickId": 30
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=31",
+    "name": "标准件用碳素钢热轧圆钢",
+    "parentClickId": 27,
+    "level": "5级",
+    "clickId": 31
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=32",
+    "name": "低合金高强度结构钢圆钢",
+    "parentClickId": 27,
+    "level": "5级",
+    "clickId": 32
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=34",
+    "name": "碳素结构钢热轧方钢",
+    "parentClickId": 33,
+    "level": "5级",
+    "clickId": 34
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=35",
+    "name": "碳素结构钢热轧六角钢",
+    "parentClickId": 33,
+    "level": "5级",
+    "clickId": 35
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=36",
+    "name": "碳素结构钢热轧八角钢",
+    "parentClickId": 33,
+    "level": "5级",
+    "clickId": 36
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=37",
+    "name": "合金钢冷拉方钢",
+    "parentClickId": 33,
+    "level": "5级",
+    "clickId": 37
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=40",
+    "name": "碳素结构钢热轧扁钢",
+    "parentClickId": 39,
+    "level": "6级",
+    "clickId": 40
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=41",
+    "name": "碳素结构钢镀锌热轧扁钢",
+    "parentClickId": 39,
+    "level": "6级",
+    "clickId": 41
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=42",
+    "name": "低合金高强度结构钢扁钢",
+    "parentClickId": 38,
+    "level": "5级",
+    "clickId": 42
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=43",
+    "name": "不锈钢扁钢",
+    "parentClickId": 38,
+    "level": "5级",
+    "clickId": 43
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=6396",
+    "name": "房建扁钢",
+    "parentClickId": 38,
+    "level": "5级",
+    "clickId": 6396
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=6397",
+    "name": "房建锌扁钢",
+    "parentClickId": 38,
+    "level": "5级",
+    "clickId": 6397
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=45",
+    "name": "碳素结构钢热轧工字钢",
+    "parentClickId": 44,
+    "level": "5级",
+    "clickId": 45
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=47",
+    "name": "低合金高强度结构钢热轧工字钢",
+    "parentClickId": 46,
+    "level": "6级",
+    "clickId": 47
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=48",
+    "name": "低合金高强度结构钢热轧轻型工字钢",
+    "parentClickId": 46,
+    "level": "6级",
+    "clickId": 48
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=49",
+    "name": "碳素结构钢热轧窄翼缘H型钢",
+    "parentClickId": 44,
+    "level": "5级",
+    "clickId": 49
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=50",
+    "name": "碳素结构钢热轧宽翼缘H型钢",
+    "parentClickId": 44,
+    "level": "5级",
+    "clickId": 50
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=51",
+    "name": "碳素结构钢热轧H型钢桩",
+    "parentClickId": 44,
+    "level": "5级",
+    "clickId": 51
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=6400",
+    "name": "房建工字钢",
+    "parentClickId": 44,
+    "level": "5级",
+    "clickId": 6400
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=6401",
+    "name": "房建H型钢",
+    "parentClickId": 44,
+    "level": "5级",
+    "clickId": 6401
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=53",
+    "name": "碳素结构钢热轧槽钢",
+    "parentClickId": 52,
+    "level": "5级",
+    "clickId": 53
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=54",
+    "name": "低合金高强度结构钢槽钢",
+    "parentClickId": 52,
+    "level": "5级",
+    "clickId": 54
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=55",
+    "name": "耐候结构钢热轧槽钢",
+    "parentClickId": 52,
+    "level": "5级",
+    "clickId": 55
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=56",
+    "name": "不锈钢槽钢",
+    "parentClickId": 52,
+    "level": "5级",
+    "clickId": 56
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=59",
+    "name": "碳素结构钢热轧等边角钢",
+    "parentClickId": 58,
+    "level": "6级",
+    "clickId": 59
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=60",
+    "name": "碳素结构钢热轧镀锌等边角钢",
+    "parentClickId": 58,
+    "level": "6级",
+    "clickId": 60
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=61",
+    "name": "低合金结构钢热轧等边角钢",
+    "parentClickId": 57,
+    "level": "5级",
+    "clickId": 61
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=62",
+    "name": "耐候结构钢热轧等边角钢",
+    "parentClickId": 57,
+    "level": "5级",
+    "clickId": 62
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=63",
+    "name": "不锈钢热轧等边角钢",
+    "parentClickId": 57,
+    "level": "5级",
+    "clickId": 63
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=64",
+    "name": "碳素结构钢热轧不等边角钢",
+    "parentClickId": 57,
+    "level": "5级",
+    "clickId": 64
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=65",
+    "name": "低合金结构钢热轧不等边角钢",
+    "parentClickId": 57,
+    "level": "5级",
+    "clickId": 65
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=66",
+    "name": "L型钢",
+    "parentClickId": 57,
+    "level": "5级",
+    "clickId": 66
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=67",
+    "name": "不锈钢热轧不等边角钢",
+    "parentClickId": 57,
+    "level": "5级",
+    "clickId": 67
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=6398",
+    "name": "房建角钢",
+    "parentClickId": 57,
+    "level": "5级",
+    "clickId": 6398
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=6399",
+    "name": "房建锌角钢",
+    "parentClickId": 57,
+    "level": "5级",
+    "clickId": 6399
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=70",
+    "name": "优质碳素结构钢圆钢、方钢、六角钢",
+    "parentClickId": 69,
+    "level": "6级",
+    "clickId": 70
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=71",
+    "name": "优质碳素结构钢扁钢",
+    "parentClickId": 69,
+    "level": "6级",
+    "clickId": 71
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=72",
+    "name": "碳素工具钢",
+    "parentClickId": 68,
+    "level": "5级",
+    "clickId": 72
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=73",
+    "name": "合金结构圆钢",
+    "parentClickId": 68,
+    "level": "5级",
+    "clickId": 73
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=75",
+    "name": "合金结构方钢",
+    "parentClickId": 74,
+    "level": "6级",
+    "clickId": 75
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=76",
+    "name": "合金结构六角钢",
+    "parentClickId": 74,
+    "level": "6级",
+    "clickId": 76
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=78",
+    "name": "合金工具钢圆钢",
+    "parentClickId": 77,
+    "level": "6级",
+    "clickId": 78
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=79",
+    "name": "合金工具钢方钢",
+    "parentClickId": 77,
+    "level": "6级",
+    "clickId": 79
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=80",
+    "name": "合金模具钢圆钢",
+    "parentClickId": 77,
+    "level": "6级",
+    "clickId": 80
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=81",
+    "name": "合金模具钢方钢",
+    "parentClickId": 77,
+    "level": "6级",
+    "clickId": 81
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=83",
+    "name": "弹簧圆钢",
+    "parentClickId": 82,
+    "level": "6级",
+    "clickId": 83
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=84",
+    "name": "弹簧扁钢",
+    "parentClickId": 82,
+    "level": "6级",
+    "clickId": 84
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=85",
+    "name": "轴承钢",
+    "parentClickId": 68,
+    "level": "5级",
+    "clickId": 85
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=86",
+    "name": "不锈耐酸、耐热钢",
+    "parentClickId": 68,
+    "level": "5级",
+    "clickId": 86
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=87",
+    "name": "其他优质型钢",
+    "parentClickId": 68,
+    "level": "5级",
+    "clickId": 87
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=88",
+    "name": "特殊棒材和特殊中小型钢",
+    "parentClickId": 26,
+    "level": "4级",
+    "clickId": 88
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=91",
+    "name": "钢筋混凝土用热轧光圆钢筋",
+    "parentClickId": 90,
+    "level": "6级",
+    "clickId": 91
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=92",
+    "name": "钢筋混凝土用余热处理钢筋",
+    "parentClickId": 90,
+    "level": "6级",
+    "clickId": 92
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=93",
+    "name": "钢筋混凝土用热处理钢筋",
+    "parentClickId": 90,
+    "level": "6级",
+    "clickId": 93
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=94",
+    "name": "预应力混凝土用热处理钢筋",
+    "parentClickId": 89,
+    "level": "5级",
+    "clickId": 94
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=95",
+    "name": "冷轧带肋钢筋",
+    "parentClickId": 89,
+    "level": "5级",
+    "clickId": 95
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=96",
+    "name": "冷轧扭钢筋",
+    "parentClickId": 89,
+    "level": "5级",
+    "clickId": 96
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=97",
+    "name": "非合金钢盘条",
+    "parentClickId": 89,
+    "level": "5级",
+    "clickId": 97
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=98",
+    "name": "合金钢盘条",
+    "parentClickId": 89,
+    "level": "5级",
+    "clickId": 98
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=6402",
+    "name": "房建线材",
+    "parentClickId": 89,
+    "level": "5级",
+    "clickId": 6402
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=102",
+    "name": "非合金钢厚钢板",
+    "parentClickId": 101,
+    "level": "6级",
+    "clickId": 102
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=103",
+    "name": "非合金钢花纹厚钢板",
+    "parentClickId": 101,
+    "level": "6级",
+    "clickId": 103
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=104",
+    "name": "非合金钢薄钢板",
+    "parentClickId": 100,
+    "level": "5级",
+    "clickId": 104
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=106",
+    "name": "非合金钢钢带",
+    "parentClickId": 105,
+    "level": "6级",
+    "clickId": 106
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=107",
+    "name": "包装用钢带",
+    "parentClickId": 105,
+    "level": "6级",
+    "clickId": 107
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=108",
+    "name": "电缆用钢带",
+    "parentClickId": 105,
+    "level": "6级",
+    "clickId": 108
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=111",
+    "name": "合金钢厚钢板",
+    "parentClickId": 110,
+    "level": "6级",
+    "clickId": 111
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=112",
+    "name": "不锈钢厚钢板",
+    "parentClickId": 110,
+    "level": "6级",
+    "clickId": 112
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=113",
+    "name": "合金钢花纹厚钢板",
+    "parentClickId": 110,
+    "level": "6级",
+    "clickId": 113
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=114",
+    "name": "不锈钢花纹厚钢板",
+    "parentClickId": 110,
+    "level": "6级",
+    "clickId": 114
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=116",
+    "name": "合金钢薄钢板",
+    "parentClickId": 115,
+    "level": "6级",
+    "clickId": 116
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=117",
+    "name": "不锈钢薄钢板",
+    "parentClickId": 115,
+    "level": "6级",
+    "clickId": 117
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=118",
+    "name": "高温合金钢冷轧薄钢板",
+    "parentClickId": 115,
+    "level": "6级",
+    "clickId": 118
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=119",
+    "name": "合金钢花纹薄钢板",
+    "parentClickId": 115,
+    "level": "6级",
+    "clickId": 119
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=121",
+    "name": "合金钢钢带",
+    "parentClickId": 120,
+    "level": "6级",
+    "clickId": 121
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=122",
+    "name": "不锈钢钢带",
+    "parentClickId": 120,
+    "level": "6级",
+    "clickId": 122
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=123",
+    "name": "其他合金钢钢带",
+    "parentClickId": 120,
+    "level": "6级",
+    "clickId": 123
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=124",
+    "name": "高速工具钢厚钢板、薄钢板、钢带",
+    "parentClickId": 99,
+    "level": "4级",
+    "clickId": 124
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=126",
+    "name": "金属镀层钢板",
+    "parentClickId": 125,
+    "level": "5级",
+    "clickId": 126
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=127",
+    "name": "金属镀层钢带",
+    "parentClickId": 125,
+    "level": "5级",
+    "clickId": 127
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=129",
+    "name": "电工用硅钢薄钢板",
+    "parentClickId": 128,
+    "level": "5级",
+    "clickId": 129
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=130",
+    "name": "电工用硅钢带",
+    "parentClickId": 128,
+    "level": "5级",
+    "clickId": 130
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=131",
+    "name": "其他钢板、钢带",
+    "parentClickId": 99,
+    "level": "4级",
+    "clickId": 131
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=134",
+    "name": "结构用热轧无缝钢管",
+    "parentClickId": 133,
+    "level": "5级",
+    "clickId": 134
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=135",
+    "name": "结构用冷拔无缝钢管",
+    "parentClickId": 133,
+    "level": "5级",
+    "clickId": 135
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=137",
+    "name": "不锈、耐酸钢无缝钢管",
+    "parentClickId": 136,
+    "level": "5级",
+    "clickId": 137
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=138",
+    "name": "高碳铬轴承钢无缝钢管",
+    "parentClickId": 136,
+    "level": "5级",
+    "clickId": 138
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=139",
+    "name": "高压油管用冷拔无缝钢管",
+    "parentClickId": 136,
+    "level": "5级",
+    "clickId": 139
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=140",
+    "name": "异型无缝钢管",
+    "parentClickId": 136,
+    "level": "5级",
+    "clickId": 140
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=141",
+    "name": "平椭圆形无缝钢管",
+    "parentClickId": 136,
+    "level": "5级",
+    "clickId": 141
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=142",
+    "name": "方形无缝钢管",
+    "parentClickId": 136,
+    "level": "5级",
+    "clickId": 142
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=143",
+    "name": "矩形无缝钢管",
+    "parentClickId": 136,
+    "level": "5级",
+    "clickId": 143
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=144",
+    "name": "精密无缝钢管",
+    "parentClickId": 136,
+    "level": "5级",
+    "clickId": 144
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=146",
+    "name": "低压流体输送用焊接钢管",
+    "parentClickId": 145,
+    "level": "5级",
+    "clickId": 146
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=147",
+    "name": "碳素结构钢电线套管",
+    "parentClickId": 145,
+    "level": "5级",
+    "clickId": 147
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=148",
+    "name": "其他焊接钢管",
+    "parentClickId": 145,
+    "level": "5级",
+    "clickId": 148
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=6403",
+    "name": "房建锌管",
+    "parentClickId": 132,
+    "level": "4级",
+    "clickId": 6403
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=6404",
+    "name": "房建方管",
+    "parentClickId": 132,
+    "level": "4级",
+    "clickId": 6404
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=6405",
+    "name": "房建无缝钢管",
+    "parentClickId": 132,
+    "level": "4级",
+    "clickId": 6405
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=151",
+    "name": "圆股钢丝绳",
+    "parentClickId": 150,
+    "level": "5级",
+    "clickId": 151
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=152",
+    "name": "镀锌钢丝绳",
+    "parentClickId": 150,
+    "level": "5级",
+    "clickId": 152
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=153",
+    "name": "不锈钢钢丝绳",
+    "parentClickId": 150,
+    "level": "5级",
+    "clickId": 153
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=154",
+    "name": "其他钢丝绳",
+    "parentClickId": 150,
+    "level": "5级",
+    "clickId": 154
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=156",
+    "name": "镀锌钢绞线",
+    "parentClickId": 155,
+    "level": "5级",
+    "clickId": 156
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=157",
+    "name": "预应力混凝土用钢绞线",
+    "parentClickId": 155,
+    "level": "5级",
+    "clickId": 157
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=159",
+    "name": "碳素钢钢丝",
+    "parentClickId": 158,
+    "level": "5级",
+    "clickId": 159
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=160",
+    "name": "合金钢钢丝",
+    "parentClickId": 158,
+    "level": "5级",
+    "clickId": 160
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=161",
+    "name": "其他钢丝",
+    "parentClickId": 158,
+    "level": "5级",
+    "clickId": 161
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=163",
+    "name": "焊接用钢丝",
+    "parentClickId": 162,
+    "level": "5级",
+    "clickId": 163
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=164",
+    "name": "高电阻电热合金丝",
+    "parentClickId": 162,
+    "level": "5级",
+    "clickId": 164
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=166",
+    "name": "通讯线用镀锌低碳钢丝",
+    "parentClickId": 165,
+    "level": "5级",
+    "clickId": 166
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=167",
+    "name": "一般用途低碳钢丝",
+    "parentClickId": 165,
+    "level": "5级",
+    "clickId": 167
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=168",
+    "name": "钢的颗粒",
+    "parentClickId": 149,
+    "level": "4级",
+    "clickId": 168
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=171",
+    "name": "辗钢整体车轮",
+    "parentClickId": 170,
+    "level": "5级",
+    "clickId": 171
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=172",
+    "name": "铸钢车轮",
+    "parentClickId": 170,
+    "level": "5级",
+    "clickId": 172
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=173",
+    "name": "轮对",
+    "parentClickId": 170,
+    "level": "5级",
+    "clickId": 173
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=174",
+    "name": "轮芯",
+    "parentClickId": 170,
+    "level": "5级",
+    "clickId": 174
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=175",
+    "name": "动车组用车轮",
+    "parentClickId": 170,
+    "level": "5级",
+    "clickId": 175
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=176",
+    "name": "轮箍",
+    "parentClickId": 169,
+    "level": "4级",
+    "clickId": 176
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=177",
+    "name": "车轴",
+    "parentClickId": 169,
+    "level": "4级",
+    "clickId": 177
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=178",
+    "name": "车轴钢坯及其他钢坯",
+    "parentClickId": 169,
+    "level": "4级",
+    "clickId": 178
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=181",
+    "name": "铜、铅、锌、铝、锡、镍、锑、汞、铋、钴",
+    "parentClickId": 180,
+    "level": "5级",
+    "clickId": 181
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=182",
+    "name": "镉、锂、结晶硅、镁、砷、金、银",
+    "parentClickId": 180,
+    "level": "5级",
+    "clickId": 182
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=183",
+    "name": "轴承合金、磷铜合金、锅炉合金",
+    "parentClickId": 180,
+    "level": "5级",
+    "clickId": 183
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=185",
+    "name": "铜及铜合金板",
+    "parentClickId": 184,
+    "level": "5级",
+    "clickId": 185
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=186",
+    "name": "铜管",
+    "parentClickId": 184,
+    "level": "5级",
+    "clickId": 186
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=187",
+    "name": "铜合金管",
+    "parentClickId": 184,
+    "level": "5级",
+    "clickId": 187
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=188",
+    "name": "铜及铜合金棒",
+    "parentClickId": 184,
+    "level": "5级",
+    "clickId": 188
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=190",
+    "name": "铜及铜合金带",
+    "parentClickId": 189,
+    "level": "6级",
+    "clickId": 190
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=191",
+    "name": "铜及铜合金箔",
+    "parentClickId": 189,
+    "level": "6级",
+    "clickId": 191
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=192",
+    "name": "铜及铜合金线",
+    "parentClickId": 184,
+    "level": "5级",
+    "clickId": 192
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=194",
+    "name": "铝及铝合金板",
+    "parentClickId": 193,
+    "level": "5级",
+    "clickId": 194
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=195",
+    "name": "铝及铝合金管",
+    "parentClickId": 193,
+    "level": "5级",
+    "clickId": 195
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=196",
+    "name": "铝及铝合金棒",
+    "parentClickId": 193,
+    "level": "5级",
+    "clickId": 196
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=198",
+    "name": "铝及铝合金带",
+    "parentClickId": 197,
+    "level": "6级",
+    "clickId": 198
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=199",
+    "name": "铝及铝合金箔",
+    "parentClickId": 197,
+    "level": "6级",
+    "clickId": 199
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=200",
+    "name": "铝及铝合金线",
+    "parentClickId": 193,
+    "level": "5级",
+    "clickId": 200
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=202",
+    "name": "铝及铝合金型材",
+    "parentClickId": 201,
+    "level": "6级",
+    "clickId": 202
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=203",
+    "name": "铝及铝合金料材",
+    "parentClickId": 201,
+    "level": "6级",
+    "clickId": 203
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=205",
+    "name": "铅及铅合金板",
+    "parentClickId": 204,
+    "level": "5级",
+    "clickId": 205
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=206",
+    "name": "铅及铅合金管",
+    "parentClickId": 204,
+    "level": "5级",
+    "clickId": 206
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=207",
+    "name": "铅及铅合金棒",
+    "parentClickId": 204,
+    "level": "5级",
+    "clickId": 207
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=208",
+    "name": "铅及铅合金箔",
+    "parentClickId": 204,
+    "level": "5级",
+    "clickId": 208
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=209",
+    "name": "铅及铅合金线",
+    "parentClickId": 204,
+    "level": "5级",
+    "clickId": 209
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=210",
+    "name": "锌及其合金材",
+    "parentClickId": 204,
+    "level": "5级",
+    "clickId": 210
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=212",
+    "name": "镍及镍合金板",
+    "parentClickId": 211,
+    "level": "5级",
+    "clickId": 212
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=214",
+    "name": "镍管",
+    "parentClickId": 213,
+    "level": "6级",
+    "clickId": 214
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=215",
+    "name": "镍合金管",
+    "parentClickId": 213,
+    "level": "6级",
+    "clickId": 215
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=216",
+    "name": "镍及镍合金棒",
+    "parentClickId": 211,
+    "level": "5级",
+    "clickId": 216
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=217",
+    "name": "镍及镍合金带材",
+    "parentClickId": 211,
+    "level": "5级",
+    "clickId": 217
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=218",
+    "name": "镍及镍合金线",
+    "parentClickId": 211,
+    "level": "5级",
+    "clickId": 218
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=220",
+    "name": "铝基钢带",
+    "parentClickId": 219,
+    "level": "5级",
+    "clickId": 220
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=221",
+    "name": "钛钢复合板",
+    "parentClickId": 219,
+    "level": "5级",
+    "clickId": 221
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=222",
+    "name": "建筑装饰用复合板",
+    "parentClickId": 219,
+    "level": "5级",
+    "clickId": 222
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=223",
+    "name": "铝塑管、板及管件",
+    "parentClickId": 219,
+    "level": "5级",
+    "clickId": 223
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=224",
+    "name": "其他复合材",
+    "parentClickId": 219,
+    "level": "5级",
+    "clickId": 224
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=227",
+    "name": "钨杆",
+    "parentClickId": 226,
+    "level": "6级",
+    "clickId": 227
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=228",
+    "name": "钨及钨丝",
+    "parentClickId": 226,
+    "level": "6级",
+    "clickId": 228
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=229",
+    "name": "钨合金丝",
+    "parentClickId": 226,
+    "level": "6级",
+    "clickId": 229
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=230",
+    "name": "钨粉",
+    "parentClickId": 226,
+    "level": "6级",
+    "clickId": 230
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=231",
+    "name": "钨钍合金材",
+    "parentClickId": 225,
+    "level": "5级",
+    "clickId": 231
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=233",
+    "name": "钼材",
+    "parentClickId": 232,
+    "level": "6级",
+    "clickId": 233
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=234",
+    "name": "钼粉",
+    "parentClickId": 232,
+    "level": "6级",
+    "clickId": 234
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=236",
+    "name": "稀有金属产品",
+    "parentClickId": 235,
+    "level": "5级",
+    "clickId": 236
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=237",
+    "name": "稀有金属粉末",
+    "parentClickId": 235,
+    "level": "5级",
+    "clickId": 237
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=238",
+    "name": "半导体材料",
+    "parentClickId": 235,
+    "level": "5级",
+    "clickId": 238
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=242",
+    "name": "连续铸铁管",
+    "parentClickId": 241,
+    "level": "6级",
+    "clickId": 242
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=243",
+    "name": "铸铁承插直管",
+    "parentClickId": 241,
+    "level": "6级",
+    "clickId": 243
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=244",
+    "name": "铸铁单盘直管",
+    "parentClickId": 240,
+    "level": "5级",
+    "clickId": 244
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=245",
+    "name": "铸铁双盘直管",
+    "parentClickId": 240,
+    "level": "5级",
+    "clickId": 245
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=246",
+    "name": "梯唇型柔性接口铸铁承插直管",
+    "parentClickId": 240,
+    "level": "5级",
+    "clickId": 246
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=247",
+    "name": "球墨铸铁管",
+    "parentClickId": 240,
+    "level": "5级",
+    "clickId": 247
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=249",
+    "name": "铸铁十字管",
+    "parentClickId": 248,
+    "level": "5级",
+    "clickId": 249
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=250",
+    "name": "铸铁渐缩管",
+    "parentClickId": 248,
+    "level": "5级",
+    "clickId": 250
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=251",
+    "name": "铸铁承插弯曲管",
+    "parentClickId": 248,
+    "level": "5级",
+    "clickId": 251
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=252",
+    "name": "铸铁叉管、套管",
+    "parentClickId": 248,
+    "level": "5级",
+    "clickId": 252
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=253",
+    "name": "铸铁短管、喇叭管、管箍",
+    "parentClickId": 248,
+    "level": "5级",
+    "clickId": 253
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=254",
+    "name": "排水铸铁管件",
+    "parentClickId": 248,
+    "level": "5级",
+    "clickId": 254
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=255",
+    "name": "铸铁丁字管",
+    "parentClickId": 248,
+    "level": "5级",
+    "clickId": 255
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=257",
+    "name": "铜制外接头",
+    "parentClickId": 256,
+    "level": "5级",
+    "clickId": 257
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=258",
+    "name": "铜制三通",
+    "parentClickId": 256,
+    "level": "5级",
+    "clickId": 258
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=259",
+    "name": "铜制四通",
+    "parentClickId": 256,
+    "level": "5级",
+    "clickId": 259
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=260",
+    "name": "铜制弯头",
+    "parentClickId": 256,
+    "level": "5级",
+    "clickId": 260
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=261",
+    "name": "铜制活接头、内接头、锁紧螺母",
+    "parentClickId": 256,
+    "level": "5级",
+    "clickId": 261
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=262",
+    "name": "铜制丝堵、管帽",
+    "parentClickId": 256,
+    "level": "5级",
+    "clickId": 262
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=263",
+    "name": "铜制内外螺丝",
+    "parentClickId": 256,
+    "level": "5级",
+    "clickId": 263
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=264",
+    "name": "其他铜制管件",
+    "parentClickId": 256,
+    "level": "5级",
+    "clickId": 264
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=266",
+    "name": "钢制外接头",
+    "parentClickId": 265,
+    "level": "5级",
+    "clickId": 266
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=267",
+    "name": "钢制三通",
+    "parentClickId": 265,
+    "level": "5级",
+    "clickId": 267
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=268",
+    "name": "钢制四通",
+    "parentClickId": 265,
+    "level": "5级",
+    "clickId": 268
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=269",
+    "name": "钢制弯头",
+    "parentClickId": 265,
+    "level": "5级",
+    "clickId": 269
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=270",
+    "name": "钢制活接头、内接头、锁紧螺母",
+    "parentClickId": 265,
+    "level": "5级",
+    "clickId": 270
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=271",
+    "name": "常用钢制螺纹管法兰",
+    "parentClickId": 265,
+    "level": "5级",
+    "clickId": 271
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=272",
+    "name": "其他钢制管件",
+    "parentClickId": 265,
+    "level": "5级",
+    "clickId": 272
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=274",
+    "name": "可锻铸铁外接头",
+    "parentClickId": 273,
+    "level": "5级",
+    "clickId": 274
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=275",
+    "name": "可锻铸铁三通",
+    "parentClickId": 273,
+    "level": "5级",
+    "clickId": 275
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=276",
+    "name": "可锻铸铁四通",
+    "parentClickId": 273,
+    "level": "5级",
+    "clickId": 276
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=277",
+    "name": "可锻铸铁弯头",
+    "parentClickId": 273,
+    "level": "5级",
+    "clickId": 277
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=278",
+    "name": "可锻铸铁活接头、内接头、锁紧螺母",
+    "parentClickId": 273,
+    "level": "5级",
+    "clickId": 278
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=279",
+    "name": "可锻铸铁丝堵、管帽",
+    "parentClickId": 273,
+    "level": "5级",
+    "clickId": 279
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=280",
+    "name": "可锻铸铁内外螺丝",
+    "parentClickId": 273,
+    "level": "5级",
+    "clickId": 280
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=281",
+    "name": "法兰盘、伸缩器",
+    "parentClickId": 273,
+    "level": "5级",
+    "clickId": 281
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=282",
+    "name": "其他可锻铸铁管件",
+    "parentClickId": 273,
+    "level": "5级",
+    "clickId": 282
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=284",
+    "name": "散热器",
+    "parentClickId": 283,
+    "level": "5级",
+    "clickId": 284
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=285",
+    "name": "散热器附件",
+    "parentClickId": 283,
+    "level": "5级",
+    "clickId": 285
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=286",
+    "name": "太阳能热水器材",
+    "parentClickId": 283,
+    "level": "5级",
+    "clickId": 286
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=287",
+    "name": "其他散热器及附件",
+    "parentClickId": 283,
+    "level": "5级",
+    "clickId": 287
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=289",
+    "name": "木螺钉",
+    "parentClickId": 288,
+    "level": "5级",
+    "clickId": 289
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=290",
+    "name": "圆钢钉及其他钉类",
+    "parentClickId": 288,
+    "level": "5级",
+    "clickId": 290
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=291",
+    "name": "建筑结构附件",
+    "parentClickId": 288,
+    "level": "5级",
+    "clickId": 291
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=292",
+    "name": "卫生洁具及附件",
+    "parentClickId": 288,
+    "level": "5级",
+    "clickId": 292
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=293",
+    "name": "金属网、栅",
+    "parentClickId": 288,
+    "level": "5级",
+    "clickId": 293
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=294",
+    "name": "链条及绳索零件",
+    "parentClickId": 288,
+    "level": "5级",
+    "clickId": 294
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=295",
+    "name": "其他建筑五金",
+    "parentClickId": 288,
+    "level": "5级",
+    "clickId": 295
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=297",
+    "name": "钢门窗",
+    "parentClickId": 296,
+    "level": "5级",
+    "clickId": 297
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=298",
+    "name": "铝合金门窗",
+    "parentClickId": 296,
+    "level": "5级",
+    "clickId": 298
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=299",
+    "name": "塑钢门窗",
+    "parentClickId": 296,
+    "level": "5级",
+    "clickId": 299
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=300",
+    "name": "门窗五金",
+    "parentClickId": 296,
+    "level": "5级",
+    "clickId": 300
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=301",
+    "name": "其他金属门窗",
+    "parentClickId": 296,
+    "level": "5级",
+    "clickId": 301
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=304",
+    "name": "结构钢焊条",
+    "parentClickId": 303,
+    "level": "5级",
+    "clickId": 304
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=305",
+    "name": "不锈钢焊条",
+    "parentClickId": 303,
+    "level": "5级",
+    "clickId": 305
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=306",
+    "name": "堆焊焊条",
+    "parentClickId": 303,
+    "level": "5级",
+    "clickId": 306
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=307",
+    "name": "低合金钢焊条",
+    "parentClickId": 303,
+    "level": "5级",
+    "clickId": 307
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=308",
+    "name": "铸铁焊条",
+    "parentClickId": 303,
+    "level": "5级",
+    "clickId": 308
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=309",
+    "name": "铜及铜合金焊条",
+    "parentClickId": 303,
+    "level": "5级",
+    "clickId": 309
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=310",
+    "name": "铝及铝合金焊条",
+    "parentClickId": 303,
+    "level": "5级",
+    "clickId": 310
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=311",
+    "name": "其他焊条",
+    "parentClickId": 303,
+    "level": "5级",
+    "clickId": 311
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=313",
+    "name": "实芯焊丝",
+    "parentClickId": 312,
+    "level": "5级",
+    "clickId": 313
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=314",
+    "name": "碳钢药芯焊丝",
+    "parentClickId": 312,
+    "level": "5级",
+    "clickId": 314
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=315",
+    "name": "铸铁焊丝",
+    "parentClickId": 312,
+    "level": "5级",
+    "clickId": 315
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=316",
+    "name": "不锈钢焊丝",
+    "parentClickId": 312,
+    "level": "5级",
+    "clickId": 316
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=317",
+    "name": "硬质合金堆焊焊丝",
+    "parentClickId": 312,
+    "level": "5级",
+    "clickId": 317
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=318",
+    "name": "铜及铜合金焊丝",
+    "parentClickId": 312,
+    "level": "5级",
+    "clickId": 318
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=319",
+    "name": "铝及铝合金焊丝",
+    "parentClickId": 312,
+    "level": "5级",
+    "clickId": 319
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=320",
+    "name": "管状焊丝",
+    "parentClickId": 312,
+    "level": "5级",
+    "clickId": 320
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=321",
+    "name": "其他焊丝",
+    "parentClickId": 312,
+    "level": "5级",
+    "clickId": 321
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=323",
+    "name": "焊剂",
+    "parentClickId": 322,
+    "level": "5级",
+    "clickId": 323
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=324",
+    "name": "焊料",
+    "parentClickId": 322,
+    "level": "5级",
+    "clickId": 324
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=325",
+    "name": "焊粉",
+    "parentClickId": 322,
+    "level": "5级",
+    "clickId": 325
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=326",
+    "name": "其他焊接材料",
+    "parentClickId": 302,
+    "level": "4级",
+    "clickId": 326
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=329",
+    "name": "回炉用废铁",
+    "parentClickId": 328,
+    "level": "5级",
+    "clickId": 329
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=330",
+    "name": "废钢轨、道岔、轮、轴",
+    "parentClickId": 328,
+    "level": "5级",
+    "clickId": 330
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=331",
+    "name": "熔炼用废钢",
+    "parentClickId": 328,
+    "level": "5级",
+    "clickId": 331
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=332",
+    "name": "废旧合金钢",
+    "parentClickId": 328,
+    "level": "5级",
+    "clickId": 332
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=333",
+    "name": "废旧机械、工具和零件及再生用废钢",
+    "parentClickId": 328,
+    "level": "5级",
+    "clickId": 333
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=334",
+    "name": "有色金属废料、残料",
+    "parentClickId": 327,
+    "level": "4级",
+    "clickId": 334
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=338",
+    "name": "一般用原木",
+    "parentClickId": 337,
+    "level": "5级",
+    "clickId": 338
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=339",
+    "name": "次加工原木",
+    "parentClickId": 337,
+    "level": "5级",
+    "clickId": 339
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=340",
+    "name": "薪柴",
+    "parentClickId": 337,
+    "level": "5级",
+    "clickId": 340
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=342",
+    "name": "电杆",
+    "parentClickId": 341,
+    "level": "5级",
+    "clickId": 342
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=343",
+    "name": "桩木",
+    "parentClickId": 341,
+    "level": "5级",
+    "clickId": 343
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=344",
+    "name": "坑木",
+    "parentClickId": 341,
+    "level": "5级",
+    "clickId": 344
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=345",
+    "name": "杉原条",
+    "parentClickId": 341,
+    "level": "5级",
+    "clickId": 345
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=347",
+    "name": "车辆用锯材",
+    "parentClickId": 346,
+    "level": "5级",
+    "clickId": 347
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=348",
+    "name": "船用锯材和包装箱锯材",
+    "parentClickId": 346,
+    "level": "5级",
+    "clickId": 348
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=349",
+    "name": "定制材、罐道木、机台木、跳板、水塔板",
+    "parentClickId": 346,
+    "level": "5级",
+    "clickId": 349
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=350",
+    "name": "其他普通锯材",
+    "parentClickId": 346,
+    "level": "5级",
+    "clickId": 350
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=352",
+    "name": "普通枕木",
+    "parentClickId": 351,
+    "level": "5级",
+    "clickId": 352
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=353",
+    "name": "道岔枕木",
+    "parentClickId": 351,
+    "level": "5级",
+    "clickId": 353
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=354",
+    "name": "桥梁枕木",
+    "parentClickId": 351,
+    "level": "5级",
+    "clickId": 354
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=356",
+    "name": "胶合板",
+    "parentClickId": 355,
+    "level": "5级",
+    "clickId": 356
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=357",
+    "name": "贴面胶合板",
+    "parentClickId": 355,
+    "level": "5级",
+    "clickId": 357
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=358",
+    "name": "纤维板",
+    "parentClickId": 355,
+    "level": "5级",
+    "clickId": 358
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=359",
+    "name": "刨花板、吸音板",
+    "parentClickId": 355,
+    "level": "5级",
+    "clickId": 359
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=360",
+    "name": "细木工板",
+    "parentClickId": 355,
+    "level": "5级",
+    "clickId": 360
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=361",
+    "name": "其他人造板",
+    "parentClickId": 355,
+    "level": "5级",
+    "clickId": 361
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=365",
+    "name": "普通砖",
+    "parentClickId": 364,
+    "level": "6级",
+    "clickId": 365
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=366",
+    "name": "空心砖",
+    "parentClickId": 364,
+    "level": "6级",
+    "clickId": 366
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=367",
+    "name": "砌块",
+    "parentClickId": 363,
+    "level": "5级",
+    "clickId": 367
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=368",
+    "name": "墙板",
+    "parentClickId": 363,
+    "level": "5级",
+    "clickId": 368
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=369",
+    "name": "瓦",
+    "parentClickId": 363,
+    "level": "5级",
+    "clickId": 369
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=370",
+    "name": "沙、碎石、河石",
+    "parentClickId": 363,
+    "level": "5级",
+    "clickId": 370
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=371",
+    "name": "砌筑用石材",
+    "parentClickId": 363,
+    "level": "5级",
+    "clickId": 371
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=372",
+    "name": "建筑饰面用石材、面板",
+    "parentClickId": 363,
+    "level": "5级",
+    "clickId": 372
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=373",
+    "name": "石灰、石膏、土、粉",
+    "parentClickId": 363,
+    "level": "5级",
+    "clickId": 373
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=374",
+    "name": "水玻璃",
+    "parentClickId": 363,
+    "level": "5级",
+    "clickId": 374
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=375",
+    "name": "其他基本建筑材料",
+    "parentClickId": 363,
+    "level": "5级",
+    "clickId": 375
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=377",
+    "name": "通用硅酸盐水泥",
+    "parentClickId": 376,
+    "level": "5级",
+    "clickId": 377
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=378",
+    "name": "专用硅酸盐水泥",
+    "parentClickId": 376,
+    "level": "5级",
+    "clickId": 378
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=379",
+    "name": "特性硅酸盐水泥",
+    "parentClickId": 376,
+    "level": "5级",
+    "clickId": 379
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=380",
+    "name": "铝酸盐水泥及类似的水硬性水泥",
+    "parentClickId": 376,
+    "level": "5级",
+    "clickId": 380
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=381",
+    "name": "其他水泥",
+    "parentClickId": 376,
+    "level": "5级",
+    "clickId": 381
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=384",
+    "name": "普通机车车辆专用玻璃",
+    "parentClickId": 383,
+    "level": "6级",
+    "clickId": 384
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=385",
+    "name": "动车组用玻璃",
+    "parentClickId": 383,
+    "level": "6级",
+    "clickId": 385
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=386",
+    "name": "平板玻璃",
+    "parentClickId": 382,
+    "level": "5级",
+    "clickId": 386
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=387",
+    "name": "声、光、热控制玻璃",
+    "parentClickId": 382,
+    "level": "5级",
+    "clickId": 387
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=388",
+    "name": "安全玻璃",
+    "parentClickId": 382,
+    "level": "5级",
+    "clickId": 388
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=389",
+    "name": "装饰玻璃",
+    "parentClickId": 382,
+    "level": "5级",
+    "clickId": 389
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=390",
+    "name": "特种玻璃",
+    "parentClickId": 382,
+    "level": "5级",
+    "clickId": 390
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=391",
+    "name": "玻璃纤维及制品",
+    "parentClickId": 382,
+    "level": "5级",
+    "clickId": 391
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=392",
+    "name": "其他玻璃制品",
+    "parentClickId": 382,
+    "level": "5级",
+    "clickId": 392
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=394",
+    "name": "石棉及石棉泥（粉）",
+    "parentClickId": 393,
+    "level": "5级",
+    "clickId": 394
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=395",
+    "name": "石棉布、带、管",
+    "parentClickId": 393,
+    "level": "5级",
+    "clickId": 395
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=396",
+    "name": "石棉线、绳",
+    "parentClickId": 393,
+    "level": "5级",
+    "clickId": 396
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=397",
+    "name": "石棉盘根",
+    "parentClickId": 393,
+    "level": "5级",
+    "clickId": 397
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=398",
+    "name": "石棉纸、板",
+    "parentClickId": 393,
+    "level": "5级",
+    "clickId": 398
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=399",
+    "name": "石棉橡胶板",
+    "parentClickId": 393,
+    "level": "5级",
+    "clickId": 399
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=400",
+    "name": "石棉水泥瓦",
+    "parentClickId": 393,
+    "level": "5级",
+    "clickId": 400
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=401",
+    "name": "其他石棉制品",
+    "parentClickId": 393,
+    "level": "5级",
+    "clickId": 401
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=403",
+    "name": "釉面内墙砖（瓷砖）",
+    "parentClickId": 402,
+    "level": "5级",
+    "clickId": 403
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=404",
+    "name": "墙地砖（外墙、地面）",
+    "parentClickId": 402,
+    "level": "5级",
+    "clickId": 404
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=405",
+    "name": "瓷质砖（无釉）",
+    "parentClickId": 402,
+    "level": "5级",
+    "clickId": 405
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=406",
+    "name": "其他建筑装饰材料",
+    "parentClickId": 402,
+    "level": "5级",
+    "clickId": 406
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=408",
+    "name": "内墙涂料",
+    "parentClickId": 407,
+    "level": "5级",
+    "clickId": 408
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=409",
+    "name": "外墙涂料",
+    "parentClickId": 407,
+    "level": "5级",
+    "clickId": 409
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=410",
+    "name": "防水涂料",
+    "parentClickId": 407,
+    "level": "5级",
+    "clickId": 410
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=411",
+    "name": "特种涂料",
+    "parentClickId": 407,
+    "level": "5级",
+    "clickId": 411
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=412",
+    "name": "建筑用胶粘剂",
+    "parentClickId": 407,
+    "level": "5级",
+    "clickId": 412
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=413",
+    "name": "其他胶粘剂",
+    "parentClickId": 407,
+    "level": "5级",
+    "clickId": 413
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=415",
+    "name": "沥青",
+    "parentClickId": 414,
+    "level": "5级",
+    "clickId": 415
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=416",
+    "name": "防水卷材",
+    "parentClickId": 414,
+    "level": "5级",
+    "clickId": 416
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=417",
+    "name": "防水嵌缝和接缝材料",
+    "parentClickId": 414,
+    "level": "5级",
+    "clickId": 417
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=418",
+    "name": "耐热、防火材料",
+    "parentClickId": 414,
+    "level": "5级",
+    "clickId": 418
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=419",
+    "name": "吸声材料",
+    "parentClickId": 414,
+    "level": "5级",
+    "clickId": 419
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=420",
+    "name": "保温材料",
+    "parentClickId": 414,
+    "level": "5级",
+    "clickId": 420
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=421",
+    "name": "其他功能建筑材料",
+    "parentClickId": 414,
+    "level": "5级",
+    "clickId": 421
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=423",
+    "name": "混凝土管",
+    "parentClickId": 422,
+    "level": "5级",
+    "clickId": 423
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=424",
+    "name": "混凝土板",
+    "parentClickId": 422,
+    "level": "5级",
+    "clickId": 424
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=425",
+    "name": "混凝土桩",
+    "parentClickId": 422,
+    "level": "5级",
+    "clickId": 425
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=426",
+    "name": "混凝土路标",
+    "parentClickId": 422,
+    "level": "5级",
+    "clickId": 426
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=427",
+    "name": "混凝土电杆及机柱",
+    "parentClickId": 422,
+    "level": "5级",
+    "clickId": 427
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=428",
+    "name": "混凝土电缆槽",
+    "parentClickId": 422,
+    "level": "5级",
+    "clickId": 428
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=429",
+    "name": "其他混凝土制品",
+    "parentClickId": 422,
+    "level": "5级",
+    "clickId": 429
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=431",
+    "name": "脚手架、跳板、梯、网",
+    "parentClickId": 430,
+    "level": "5级",
+    "clickId": 431
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=432",
+    "name": "其他建筑用具",
+    "parentClickId": 430,
+    "level": "5级",
+    "clickId": 432
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=435",
+    "name": "机车专用耐火砖",
+    "parentClickId": 434,
+    "level": "5级",
+    "clickId": 435
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=436",
+    "name": "粘土质耐火砖",
+    "parentClickId": 434,
+    "level": "5级",
+    "clickId": 436
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=437",
+    "name": "高铝质耐火砖",
+    "parentClickId": 434,
+    "level": "5级",
+    "clickId": 437
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=438",
+    "name": "硅铝质耐火砖",
+    "parentClickId": 434,
+    "level": "5级",
+    "clickId": 438
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=439",
+    "name": "镁质、镁硅质耐火砖",
+    "parentClickId": 434,
+    "level": "5级",
+    "clickId": 439
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=440",
+    "name": "炼钢电炉顶用砖",
+    "parentClickId": 434,
+    "level": "5级",
+    "clickId": 440
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=441",
+    "name": "耐酸、耐温砖",
+    "parentClickId": 434,
+    "level": "5级",
+    "clickId": 441
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=442",
+    "name": "碳化硅砖",
+    "parentClickId": 434,
+    "level": "5级",
+    "clickId": 442
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=444",
+    "name": "耐火泥、土",
+    "parentClickId": 443,
+    "level": "5级",
+    "clickId": 444
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=445",
+    "name": "耐火烧注料、熟料",
+    "parentClickId": 443,
+    "level": "5级",
+    "clickId": 445
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=446",
+    "name": "其他耐火制品",
+    "parentClickId": 443,
+    "level": "5级",
+    "clickId": 446
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=448",
+    "name": "非金属炉料",
+    "parentClickId": 447,
+    "level": "5级",
+    "clickId": 448
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=449",
+    "name": "石墨制品",
+    "parentClickId": 447,
+    "level": "5级",
+    "clickId": 449
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=450",
+    "name": "碳制品",
+    "parentClickId": 447,
+    "level": "5级",
+    "clickId": 450
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=453",
+    "name": "水",
+    "parentClickId": 452,
+    "level": "5级",
+    "clickId": 453
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=454",
+    "name": "电",
+    "parentClickId": 452,
+    "level": "5级",
+    "clickId": 454
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=456",
+    "name": "铁路专用润滑油",
+    "parentClickId": 455,
+    "level": "5级",
+    "clickId": 456
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=457",
+    "name": "齿轮和主轴、轴承、离合器用油",
+    "parentClickId": 455,
+    "level": "5级",
+    "clickId": 457
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=458",
+    "name": "内燃机润滑油",
+    "parentClickId": 455,
+    "level": "5级",
+    "clickId": 458
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=459",
+    "name": "液压油",
+    "parentClickId": 455,
+    "level": "5级",
+    "clickId": 459
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=460",
+    "name": "导轨油、电器用油、汽轮机油",
+    "parentClickId": 455,
+    "level": "5级",
+    "clickId": 460
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=461",
+    "name": "压缩机、冷冻机、真空泵用油",
+    "parentClickId": 455,
+    "level": "5级",
+    "clickId": 461
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=462",
+    "name": "工艺、仪表、防护用油",
+    "parentClickId": 455,
+    "level": "5级",
+    "clickId": 462
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=463",
+    "name": "全损耗系统用油",
+    "parentClickId": 455,
+    "level": "5级",
+    "clickId": 463
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=464",
+    "name": "合成油",
+    "parentClickId": 455,
+    "level": "5级",
+    "clickId": 464
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=465",
+    "name": "其他油剂",
+    "parentClickId": 455,
+    "level": "5级",
+    "clickId": 465
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=467",
+    "name": "铁路专用润滑脂",
+    "parentClickId": 466,
+    "level": "5级",
+    "clickId": 467
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=468",
+    "name": "普通润滑脂",
+    "parentClickId": 466,
+    "level": "5级",
+    "clickId": 468
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=469",
+    "name": "合成脂",
+    "parentClickId": 466,
+    "level": "5级",
+    "clickId": 469
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=470",
+    "name": "其他润滑脂",
+    "parentClickId": 466,
+    "level": "5级",
+    "clickId": 470
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=472",
+    "name": "溶剂油",
+    "parentClickId": 471,
+    "level": "5级",
+    "clickId": 472
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=473",
+    "name": "防腐油",
+    "parentClickId": 471,
+    "level": "5级",
+    "clickId": 473
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=474",
+    "name": "煤焦油",
+    "parentClickId": 471,
+    "level": "5级",
+    "clickId": 474
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=475",
+    "name": "石油蜡",
+    "parentClickId": 451,
+    "level": "4级",
+    "clickId": 475
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=477",
+    "name": "铁路专用添加剂",
+    "parentClickId": 476,
+    "level": "5级",
+    "clickId": 477
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=478",
+    "name": "燃料油添加剂",
+    "parentClickId": 476,
+    "level": "5级",
+    "clickId": 478
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=479",
+    "name": "润滑剂添加剂",
+    "parentClickId": 476,
+    "level": "5级",
+    "clickId": 479
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=480",
+    "name": "复合添加剂",
+    "parentClickId": 476,
+    "level": "5级",
+    "clickId": 480
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=481",
+    "name": "炼厂设备、工艺、油田添加剂",
+    "parentClickId": 476,
+    "level": "5级",
+    "clickId": 481
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=482",
+    "name": "催化剂",
+    "parentClickId": 451,
+    "level": "4级",
+    "clickId": 482
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=485",
+    "name": "工业用无机酸",
+    "parentClickId": 484,
+    "level": "5级",
+    "clickId": 485
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=486",
+    "name": "工业用碱",
+    "parentClickId": 484,
+    "level": "5级",
+    "clickId": 486
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=487",
+    "name": "无机盐及氧化物",
+    "parentClickId": 484,
+    "level": "5级",
+    "clickId": 487
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=488",
+    "name": "压缩及液化气体",
+    "parentClickId": 484,
+    "level": "5级",
+    "clickId": 488
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=489",
+    "name": "工业用有机酸、酐",
+    "parentClickId": 484,
+    "level": "5级",
+    "clickId": 489
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=490",
+    "name": "烃类及取代烃类有机原料",
+    "parentClickId": 484,
+    "level": "5级",
+    "clickId": 490
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=491",
+    "name": "醇、酚、醚、烯类有机原料",
+    "parentClickId": 484,
+    "level": "5级",
+    "clickId": 491
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=492",
+    "name": "醛、酮、酯类有机原料",
+    "parentClickId": 484,
+    "level": "5级",
+    "clickId": 492
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=493",
+    "name": "胺基类有机原料",
+    "parentClickId": 484,
+    "level": "5级",
+    "clickId": 493
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=494",
+    "name": "其他化工原料及制剂",
+    "parentClickId": 484,
+    "level": "5级",
+    "clickId": 494
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=496",
+    "name": "无机试剂",
+    "parentClickId": 495,
+    "level": "5级",
+    "clickId": 496
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=497",
+    "name": "有机试剂",
+    "parentClickId": 495,
+    "level": "5级",
+    "clickId": 497
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=498",
+    "name": "其他试剂",
+    "parentClickId": 495,
+    "level": "5级",
+    "clickId": 498
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=500",
+    "name": "清油、清漆",
+    "parentClickId": 499,
+    "level": "5级",
+    "clickId": 500
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=501",
+    "name": "厚漆",
+    "parentClickId": 499,
+    "level": "5级",
+    "clickId": 501
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=502",
+    "name": "调和漆",
+    "parentClickId": 499,
+    "level": "5级",
+    "clickId": 502
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=503",
+    "name": "底漆",
+    "parentClickId": 499,
+    "level": "5级",
+    "clickId": 503
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=504",
+    "name": "防锈漆",
+    "parentClickId": 499,
+    "level": "5级",
+    "clickId": 504
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=505",
+    "name": "防腐漆",
+    "parentClickId": 499,
+    "level": "5级",
+    "clickId": 505
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=506",
+    "name": "中涂漆",
+    "parentClickId": 499,
+    "level": "5级",
+    "clickId": 506
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=508",
+    "name": "酚醛磁漆",
+    "parentClickId": 507,
+    "level": "5级",
+    "clickId": 508
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=509",
+    "name": "醇酸磁漆",
+    "parentClickId": 507,
+    "level": "5级",
+    "clickId": 509
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=510",
+    "name": "硝基磁漆",
+    "parentClickId": 507,
+    "level": "5级",
+    "clickId": 510
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=511",
+    "name": "脂胶磁漆",
+    "parentClickId": 507,
+    "level": "5级",
+    "clickId": 511
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=512",
+    "name": "过氯乙烯磁漆",
+    "parentClickId": 507,
+    "level": "5级",
+    "clickId": 512
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=513",
+    "name": "聚酯、环氧脂磁漆",
+    "parentClickId": 507,
+    "level": "5级",
+    "clickId": 513
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=514",
+    "name": "丙烯酸磁漆",
+    "parentClickId": 507,
+    "level": "5级",
+    "clickId": 514
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=515",
+    "name": "其他磁漆",
+    "parentClickId": 507,
+    "level": "5级",
+    "clickId": 515
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=517",
+    "name": "稀释剂",
+    "parentClickId": 516,
+    "level": "5级",
+    "clickId": 517
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=518",
+    "name": "粉、浆",
+    "parentClickId": 516,
+    "level": "5级",
+    "clickId": 518
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=519",
+    "name": "腻子",
+    "parentClickId": 516,
+    "level": "5级",
+    "clickId": 519
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=521",
+    "name": "无机颜料",
+    "parentClickId": 520,
+    "level": "5级",
+    "clickId": 521
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=522",
+    "name": "有机颜料",
+    "parentClickId": 520,
+    "level": "5级",
+    "clickId": 522
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=523",
+    "name": "淡金水",
+    "parentClickId": 520,
+    "level": "5级",
+    "clickId": 523
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=524",
+    "name": "其他颜料",
+    "parentClickId": 520,
+    "level": "5级",
+    "clickId": 524
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=526",
+    "name": "耐酸漆",
+    "parentClickId": 525,
+    "level": "5级",
+    "clickId": 526
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=527",
+    "name": "皱纹漆",
+    "parentClickId": 525,
+    "level": "5级",
+    "clickId": 527
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=528",
+    "name": "自喷漆",
+    "parentClickId": 525,
+    "level": "5级",
+    "clickId": 528
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=529",
+    "name": "烘干漆",
+    "parentClickId": 525,
+    "level": "5级",
+    "clickId": 529
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=530",
+    "name": "耐油漆",
+    "parentClickId": 525,
+    "level": "5级",
+    "clickId": 530
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=531",
+    "name": "耐热防火漆",
+    "parentClickId": 525,
+    "level": "5级",
+    "clickId": 531
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=532",
+    "name": "其他特殊性能漆",
+    "parentClickId": 525,
+    "level": "5级",
+    "clickId": 532
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=534",
+    "name": "铁路专用油漆",
+    "parentClickId": 533,
+    "level": "5级",
+    "clickId": 534
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=535",
+    "name": "地板漆",
+    "parentClickId": 533,
+    "level": "5级",
+    "clickId": 535
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=536",
+    "name": "黑板漆",
+    "parentClickId": 533,
+    "level": "5级",
+    "clickId": 536
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=537",
+    "name": "涂布漆",
+    "parentClickId": 533,
+    "level": "5级",
+    "clickId": 537
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=538",
+    "name": "其他特种用途漆",
+    "parentClickId": 533,
+    "level": "5级",
+    "clickId": 538
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=540",
+    "name": "炸药",
+    "parentClickId": 539,
+    "level": "5级",
+    "clickId": 540
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=542",
+    "name": "工业火雷管",
+    "parentClickId": 541,
+    "level": "6级",
+    "clickId": 542
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=543",
+    "name": "瞬发电雷管",
+    "parentClickId": 541,
+    "level": "6级",
+    "clickId": 543
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=544",
+    "name": "延期电雷管",
+    "parentClickId": 541,
+    "level": "6级",
+    "clickId": 544
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=545",
+    "name": "毫秒延期电雷管",
+    "parentClickId": 541,
+    "level": "6级",
+    "clickId": 545
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=546",
+    "name": "导爆管雷管",
+    "parentClickId": 541,
+    "level": "6级",
+    "clickId": 546
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=547",
+    "name": "导火索、导爆索",
+    "parentClickId": 539,
+    "level": "5级",
+    "clickId": 547
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=548",
+    "name": "导爆管非电起爆系统",
+    "parentClickId": 539,
+    "level": "5级",
+    "clickId": 548
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=549",
+    "name": "非电起爆杂件",
+    "parentClickId": 539,
+    "level": "5级",
+    "clickId": 549
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=552",
+    "name": "天然橡胶",
+    "parentClickId": 551,
+    "level": "5级",
+    "clickId": 552
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=553",
+    "name": "合成橡胶",
+    "parentClickId": 551,
+    "level": "5级",
+    "clickId": 553
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=554",
+    "name": "再生橡胶",
+    "parentClickId": 551,
+    "level": "5级",
+    "clickId": 554
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=555",
+    "name": "橡胶助剂",
+    "parentClickId": 551,
+    "level": "5级",
+    "clickId": 555
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=557",
+    "name": "普通输送带",
+    "parentClickId": 556,
+    "level": "5级",
+    "clickId": 557
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=558",
+    "name": "耐热、耐寒输送带",
+    "parentClickId": 556,
+    "level": "5级",
+    "clickId": 558
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=559",
+    "name": "阻燃输送带",
+    "parentClickId": 556,
+    "level": "5级",
+    "clickId": 559
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=560",
+    "name": "钢丝绳芯输送带",
+    "parentClickId": 556,
+    "level": "5级",
+    "clickId": 560
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=561",
+    "name": "其他输送带",
+    "parentClickId": 556,
+    "level": "5级",
+    "clickId": 561
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=563",
+    "name": "平型传动带",
+    "parentClickId": 562,
+    "level": "5级",
+    "clickId": 563
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=564",
+    "name": "普通V带",
+    "parentClickId": 562,
+    "level": "5级",
+    "clickId": 564
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=565",
+    "name": "活络V型带",
+    "parentClickId": 562,
+    "level": "5级",
+    "clickId": 565
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=566",
+    "name": "窄V带",
+    "parentClickId": 562,
+    "level": "5级",
+    "clickId": 566
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=567",
+    "name": "工业用V带",
+    "parentClickId": 562,
+    "level": "5级",
+    "clickId": 567
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=568",
+    "name": "多楔带",
+    "parentClickId": 562,
+    "level": "5级",
+    "clickId": 568
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=569",
+    "name": "同步齿形带",
+    "parentClickId": 562,
+    "level": "5级",
+    "clickId": 569
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=570",
+    "name": "其他传动带",
+    "parentClickId": 562,
+    "level": "5级",
+    "clickId": 570
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=572",
+    "name": "铁路机车车辆专用胶管",
+    "parentClickId": 571,
+    "level": "5级",
+    "clickId": 572
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=573",
+    "name": "输水胶管",
+    "parentClickId": 571,
+    "level": "5级",
+    "clickId": 573
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=574",
+    "name": "耐热胶管",
+    "parentClickId": 571,
+    "level": "5级",
+    "clickId": 574
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=575",
+    "name": "风压胶管",
+    "parentClickId": 571,
+    "level": "5级",
+    "clickId": 575
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=576",
+    "name": "耐酸碱胶管",
+    "parentClickId": 571,
+    "level": "5级",
+    "clickId": 576
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=577",
+    "name": "输油胶管",
+    "parentClickId": 571,
+    "level": "5级",
+    "clickId": 577
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=578",
+    "name": "喷砂、浆、雾胶管",
+    "parentClickId": 571,
+    "level": "5级",
+    "clickId": 578
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=579",
+    "name": "氧气、乙炔橡胶软管",
+    "parentClickId": 571,
+    "level": "5级",
+    "clickId": 579
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=580",
+    "name": "其他胶管",
+    "parentClickId": 571,
+    "level": "5级",
+    "clickId": 580
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=582",
+    "name": "普通橡胶板",
+    "parentClickId": 581,
+    "level": "5级",
+    "clickId": 582
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=583",
+    "name": "耐酸、耐油、耐热橡胶板",
+    "parentClickId": 581,
+    "level": "5级",
+    "clickId": 583
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=584",
+    "name": "绝缘橡胶板",
+    "parentClickId": 581,
+    "level": "5级",
+    "clickId": 584
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=585",
+    "name": "通用橡胶密封圈、垫",
+    "parentClickId": 581,
+    "level": "5级",
+    "clickId": 585
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=586",
+    "name": "其他橡胶制品",
+    "parentClickId": 581,
+    "level": "5级",
+    "clickId": 586
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=588",
+    "name": "工程、工业机械轮胎",
+    "parentClickId": 587,
+    "level": "5级",
+    "clickId": 588
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=589",
+    "name": "载重汽车轮胎",
+    "parentClickId": 587,
+    "level": "5级",
+    "clickId": 589
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=590",
+    "name": "载重汽车无内胎轮胎",
+    "parentClickId": 587,
+    "level": "5级",
+    "clickId": 590
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=591",
+    "name": "客车轮胎",
+    "parentClickId": 587,
+    "level": "5级",
+    "clickId": 591
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=592",
+    "name": "垫胎",
+    "parentClickId": 587,
+    "level": "5级",
+    "clickId": 592
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=593",
+    "name": "内胎",
+    "parentClickId": 587,
+    "level": "5级",
+    "clickId": 593
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=594",
+    "name": "实心轮胎",
+    "parentClickId": 587,
+    "level": "5级",
+    "clickId": 594
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=595",
+    "name": "人力车轮胎",
+    "parentClickId": 587,
+    "level": "5级",
+    "clickId": 595
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=596",
+    "name": "自行车及三轮车轮胎",
+    "parentClickId": 587,
+    "level": "5级",
+    "clickId": 596
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=597",
+    "name": "其他轮胎及轮胎附件",
+    "parentClickId": 587,
+    "level": "5级",
+    "clickId": 597
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=600",
+    "name": "合成树脂",
+    "parentClickId": 599,
+    "level": "5级",
+    "clickId": 600
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=601",
+    "name": "塑料原料",
+    "parentClickId": 599,
+    "level": "5级",
+    "clickId": 601
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=603",
+    "name": "聚氯乙烯板",
+    "parentClickId": 602,
+    "level": "5级",
+    "clickId": 603
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=604",
+    "name": "聚苯乙烯板",
+    "parentClickId": 602,
+    "level": "5级",
+    "clickId": 604
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=605",
+    "name": "聚丙烯板材",
+    "parentClickId": 602,
+    "level": "5级",
+    "clickId": 605
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=606",
+    "name": "聚四氟乙烯板材",
+    "parentClickId": 602,
+    "level": "5级",
+    "clickId": 606
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=607",
+    "name": "丙烯腈-丁二烯-苯乙烯板材",
+    "parentClickId": 602,
+    "level": "5级",
+    "clickId": 607
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=608",
+    "name": "聚三氟乙烯板（车削）",
+    "parentClickId": 602,
+    "level": "5级",
+    "clickId": 608
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=609",
+    "name": "聚酰胺板材",
+    "parentClickId": 602,
+    "level": "5级",
+    "clickId": 609
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=610",
+    "name": "其他塑料板材",
+    "parentClickId": 602,
+    "level": "5级",
+    "clickId": 610
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=612",
+    "name": "塑料给水用管材及管件",
+    "parentClickId": 611,
+    "level": "5级",
+    "clickId": 612
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=613",
+    "name": "工业排水、排污用塑料管材及配件",
+    "parentClickId": 611,
+    "level": "5级",
+    "clickId": 613
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=614",
+    "name": "吸、排流体用塑料管材",
+    "parentClickId": 611,
+    "level": "5级",
+    "clickId": 614
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=615",
+    "name": "输气用塑料管材及管件",
+    "parentClickId": 611,
+    "level": "5级",
+    "clickId": 615
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=616",
+    "name": "液压、气压用塑料管材",
+    "parentClickId": 611,
+    "level": "5级",
+    "clickId": 616
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=617",
+    "name": "电线用塑料管材",
+    "parentClickId": 611,
+    "level": "5级",
+    "clickId": 617
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=618",
+    "name": "其他塑料管材",
+    "parentClickId": 611,
+    "level": "5级",
+    "clickId": 618
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=620",
+    "name": "聚氯乙烯棒",
+    "parentClickId": 619,
+    "level": "5级",
+    "clickId": 620
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=621",
+    "name": "聚苯乙烯棒",
+    "parentClickId": 619,
+    "level": "5级",
+    "clickId": 621
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=622",
+    "name": "聚乙烯棒",
+    "parentClickId": 619,
+    "level": "5级",
+    "clickId": 622
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=623",
+    "name": "聚丙烯棒",
+    "parentClickId": 619,
+    "level": "5级",
+    "clickId": 623
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=624",
+    "name": "聚四氟乙烯棒",
+    "parentClickId": 619,
+    "level": "5级",
+    "clickId": 624
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=625",
+    "name": "聚全氟乙丙烯棒",
+    "parentClickId": 619,
+    "level": "5级",
+    "clickId": 625
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=626",
+    "name": "聚三氟氯乙烯棒",
+    "parentClickId": 619,
+    "level": "5级",
+    "clickId": 626
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=627",
+    "name": "聚酰氨棒",
+    "parentClickId": 619,
+    "level": "5级",
+    "clickId": 627
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=628",
+    "name": "其他塑料棒材",
+    "parentClickId": 619,
+    "level": "5级",
+    "clickId": 628
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=630",
+    "name": "有机玻璃板",
+    "parentClickId": 629,
+    "level": "5级",
+    "clickId": 630
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=631",
+    "name": "有机玻璃棒",
+    "parentClickId": 629,
+    "level": "5级",
+    "clickId": 631
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=632",
+    "name": "有机玻璃管",
+    "parentClickId": 629,
+    "level": "5级",
+    "clickId": 632
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=634",
+    "name": "泡沫塑料条、块",
+    "parentClickId": 633,
+    "level": "5级",
+    "clickId": 634
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=635",
+    "name": "塑料密封材料",
+    "parentClickId": 633,
+    "level": "5级",
+    "clickId": 635
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=636",
+    "name": "其他泡沫塑料及型材",
+    "parentClickId": 633,
+    "level": "5级",
+    "clickId": 636
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=638",
+    "name": "聚氯乙烯薄膜",
+    "parentClickId": 637,
+    "level": "5级",
+    "clickId": 638
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=639",
+    "name": "高压聚乙烯吹塑薄膜",
+    "parentClickId": 637,
+    "level": "5级",
+    "clickId": 639
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=640",
+    "name": "聚乙烯薄膜",
+    "parentClickId": 637,
+    "level": "5级",
+    "clickId": 640
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=641",
+    "name": "聚苯乙烯薄膜",
+    "parentClickId": 637,
+    "level": "5级",
+    "clickId": 641
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=642",
+    "name": "聚丙乙烯吹塑薄膜",
+    "parentClickId": 637,
+    "level": "5级",
+    "clickId": 642
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=643",
+    "name": "其他塑料簿膜",
+    "parentClickId": 637,
+    "level": "5级",
+    "clickId": 643
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=645",
+    "name": "塑料单丝",
+    "parentClickId": 644,
+    "level": "5级",
+    "clickId": 645
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=646",
+    "name": "聚氯乙烯绝缘软带",
+    "parentClickId": 644,
+    "level": "5级",
+    "clickId": 646
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=647",
+    "name": "聚氯乙烯止水带",
+    "parentClickId": 644,
+    "level": "5级",
+    "clickId": 647
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=648",
+    "name": "聚四氟乙烯生料带",
+    "parentClickId": 644,
+    "level": "5级",
+    "clickId": 648
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=649",
+    "name": "聚丙乙烯纺织带",
+    "parentClickId": 644,
+    "level": "5级",
+    "clickId": 649
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=650",
+    "name": "专用塑料带",
+    "parentClickId": 644,
+    "level": "5级",
+    "clickId": 650
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=652",
+    "name": "聚氯乙烯焊条",
+    "parentClickId": 651,
+    "level": "5级",
+    "clickId": 652
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=654",
+    "name": "塑料建材产品",
+    "parentClickId": 653,
+    "level": "5级",
+    "clickId": 654
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=655",
+    "name": "塑料制品",
+    "parentClickId": 653,
+    "level": "5级",
+    "clickId": 655
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=657",
+    "name": "纤维材料",
+    "parentClickId": 656,
+    "level": "4级",
+    "clickId": 657
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=659",
+    "name": "棉纺品",
+    "parentClickId": 658,
+    "level": "5级",
+    "clickId": 659
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=660",
+    "name": "棉织品",
+    "parentClickId": 658,
+    "level": "5级",
+    "clickId": 660
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=661",
+    "name": "特种工业用布品",
+    "parentClickId": 658,
+    "level": "5级",
+    "clickId": 661
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=662",
+    "name": "其他纺织品",
+    "parentClickId": 658,
+    "level": "5级",
+    "clickId": 662
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=664",
+    "name": "棕绳",
+    "parentClickId": 663,
+    "level": "5级",
+    "clickId": 664
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=665",
+    "name": "麻绳",
+    "parentClickId": 663,
+    "level": "5级",
+    "clickId": 665
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=666",
+    "name": "线绳",
+    "parentClickId": 663,
+    "level": "5级",
+    "clickId": 666
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=667",
+    "name": "其他绳索",
+    "parentClickId": 663,
+    "level": "5级",
+    "clickId": 667
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=669",
+    "name": "毛毡、毛毡条",
+    "parentClickId": 668,
+    "level": "5级",
+    "clickId": 669
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=670",
+    "name": "其他纤维制品",
+    "parentClickId": 668,
+    "level": "5级",
+    "clickId": 670
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=672",
+    "name": "文化用纸",
+    "parentClickId": 671,
+    "level": "5级",
+    "clickId": 672
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=673",
+    "name": "工业、技术用纸",
+    "parentClickId": 671,
+    "level": "5级",
+    "clickId": 673
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=674",
+    "name": "包装用纸",
+    "parentClickId": 671,
+    "level": "5级",
+    "clickId": 674
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=675",
+    "name": "生活、装饰用纸",
+    "parentClickId": 671,
+    "level": "5级",
+    "clickId": 675
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=676",
+    "name": "纸板",
+    "parentClickId": 671,
+    "level": "5级",
+    "clickId": 676
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=677",
+    "name": "其他纸张",
+    "parentClickId": 671,
+    "level": "5级",
+    "clickId": 677
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=680",
+    "name": "普通机车车辆用地板革",
+    "parentClickId": 679,
+    "level": "6级",
+    "clickId": 680
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=681",
+    "name": "动车组用地板革",
+    "parentClickId": 679,
+    "level": "6级",
+    "clickId": 681
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=682",
+    "name": "人造革",
+    "parentClickId": 678,
+    "level": "5级",
+    "clickId": 682
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=683",
+    "name": "皮革",
+    "parentClickId": 678,
+    "level": "5级",
+    "clickId": 683
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=684",
+    "name": "其他皮革制品",
+    "parentClickId": 678,
+    "level": "5级",
+    "clickId": 684
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=687",
+    "name": "一般劳动防护用品",
+    "parentClickId": 686,
+    "level": "5级",
+    "clickId": 687
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=688",
+    "name": "防寒劳动保护用品",
+    "parentClickId": 686,
+    "level": "5级",
+    "clickId": 688
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=689",
+    "name": "防水.救生劳保用品",
+    "parentClickId": 686,
+    "level": "5级",
+    "clickId": 689
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=690",
+    "name": "耐酸.耐油劳保用品",
+    "parentClickId": 686,
+    "level": "5级",
+    "clickId": 690
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=691",
+    "name": "绝缘、隔热、防毒、防尘及其它用品",
+    "parentClickId": 686,
+    "level": "5级",
+    "clickId": 691
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=692",
+    "name": "其它劳动保护用品",
+    "parentClickId": 686,
+    "level": "5级",
+    "clickId": 692
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=694",
+    "name": "木制土产品",
+    "parentClickId": 693,
+    "level": "5级",
+    "clickId": 694
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=695",
+    "name": "竹制土产品",
+    "parentClickId": 693,
+    "level": "5级",
+    "clickId": 695
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=696",
+    "name": "柳编制品",
+    "parentClickId": 693,
+    "level": "5级",
+    "clickId": 696
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=697",
+    "name": "草编制品",
+    "parentClickId": 693,
+    "level": "5级",
+    "clickId": 697
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=698",
+    "name": "其他土杂产品",
+    "parentClickId": 693,
+    "level": "5级",
+    "clickId": 698
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=700",
+    "name": "盛油、加油工具",
+    "parentClickId": 699,
+    "level": "5级",
+    "clickId": 700
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=701",
+    "name": "盛水容器",
+    "parentClickId": 699,
+    "level": "5级",
+    "clickId": 701
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=702",
+    "name": "压缩气体容器",
+    "parentClickId": 699,
+    "level": "5级",
+    "clickId": 702
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=703",
+    "name": "其他容器",
+    "parentClickId": 699,
+    "level": "5级",
+    "clickId": 703
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=705",
+    "name": "工具袋、包、套",
+    "parentClickId": 704,
+    "level": "5级",
+    "clickId": 705
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=706",
+    "name": "机辆座、套",
+    "parentClickId": 704,
+    "level": "5级",
+    "clickId": 706
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=707",
+    "name": "帐篷",
+    "parentClickId": 704,
+    "level": "5级",
+    "clickId": 707
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=708",
+    "name": "活动房屋",
+    "parentClickId": 704,
+    "level": "5级",
+    "clickId": 708
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=710",
+    "name": "检、验票用具",
+    "parentClickId": 709,
+    "level": "5级",
+    "clickId": 710
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=711",
+    "name": "客车用卧具及杂品",
+    "parentClickId": 709,
+    "level": "5级",
+    "clickId": 711
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=712",
+    "name": "其他客运用杂品",
+    "parentClickId": 709,
+    "level": "5级",
+    "clickId": 712
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=714",
+    "name": "篷布及封车绳具",
+    "parentClickId": 713,
+    "level": "5级",
+    "clickId": 714
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=715",
+    "name": "施封环、锁",
+    "parentClickId": 713,
+    "level": "5级",
+    "clickId": 715
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=716",
+    "name": "集装箱及吊具",
+    "parentClickId": 713,
+    "level": "5级",
+    "clickId": 716
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=717",
+    "name": "集装袋",
+    "parentClickId": 713,
+    "level": "5级",
+    "clickId": 717
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=718",
+    "name": "货物托架、托盘",
+    "parentClickId": 713,
+    "level": "5级",
+    "clickId": 718
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=719",
+    "name": "玻璃架",
+    "parentClickId": 713,
+    "level": "5级",
+    "clickId": 719
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=720",
+    "name": "保险箱",
+    "parentClickId": 713,
+    "level": "5级",
+    "clickId": 720
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=721",
+    "name": "其他货运用杂品",
+    "parentClickId": 713,
+    "level": "5级",
+    "clickId": 721
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=723",
+    "name": "手提灯具",
+    "parentClickId": 722,
+    "level": "5级",
+    "clickId": 723
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=724",
+    "name": "信号旗、喇叭、响敦、火炬信号",
+    "parentClickId": 722,
+    "level": "5级",
+    "clickId": 724
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=725",
+    "name": "防护用灯具",
+    "parentClickId": 722,
+    "level": "5级",
+    "clickId": 725
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=726",
+    "name": "标志牌",
+    "parentClickId": 722,
+    "level": "5级",
+    "clickId": 726
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=727",
+    "name": "其他安全防护用杂品",
+    "parentClickId": 722,
+    "level": "5级",
+    "clickId": 727
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=729",
+    "name": "香皂、肥皂、洗衣粉",
+    "parentClickId": 728,
+    "level": "5级",
+    "clickId": 729
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=730",
+    "name": "洗洁精、去污粉",
+    "parentClickId": 728,
+    "level": "5级",
+    "clickId": 730
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=731",
+    "name": "消毒用品",
+    "parentClickId": 728,
+    "level": "5级",
+    "clickId": 731
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=732",
+    "name": "药品",
+    "parentClickId": 728,
+    "level": "5级",
+    "clickId": 732
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=733",
+    "name": "其他卫生消毒用品",
+    "parentClickId": 728,
+    "level": "5级",
+    "clickId": 733
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=735",
+    "name": "刷子、毛笔",
+    "parentClickId": 734,
+    "level": "5级",
+    "clickId": 735
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=736",
+    "name": "化学实验、测量用品",
+    "parentClickId": 734,
+    "level": "5级",
+    "clickId": 736
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=737",
+    "name": "桌、椅、床、柜",
+    "parentClickId": 734,
+    "level": "5级",
+    "clickId": 737
+  },
+  {
+    "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=738",
+    "name": "厨具",
+    "parentClickId": 734,
+    "level": "5级",
+    "clickId": 738
+  },
+  {
     "url": "http://www.sjgtw.com/goodsClass/goodsClassIndex?clickId=739",
     "name": "办公用低值易耗品",
     "parentClickId": 734,

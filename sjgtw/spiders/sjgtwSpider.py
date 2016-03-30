@@ -57,6 +57,7 @@ class sjgtwSpider(scrapy.Spider):
 
     def parse(self, response):
         print(">> parsing..." + response.url)
+        # calculate complete percent
         count = 0
         resultCount = response.xpath("//div[@class='result']/text()")
         if len(resultCount) > 0:
@@ -73,8 +74,9 @@ class sjgtwSpider(scrapy.Spider):
         if response.url in self.urlItems:
             url_crawled_count = self.urlItems[response.url]
             if url_crawled_count:
-                if float(count)/float(url_crawled_count) > 0.95:
-                    log.msg("url has been crawled completely: %s " % response.url)
+                percent =  float("%d.00"%url_crawled_count)/float(count)
+                if percent > 0.95:
+                    log.msg("url has been crawled completely %f : %s " % (percent, response.url))
                     return
 
         for line in response.xpath("//table[@id='goodsClassTable']/tbody/tr"):
