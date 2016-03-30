@@ -9,11 +9,14 @@ def json2tree(json):
 
 
 path = os.getcwd()
-json = json.load(open("../sjgtw_catalog.json", "r"))
+cata = json.load(open("../sjgtw_catalog.json", "r"))
 # 读取所有jsonobj,将<id, node>放入dict
+jsonStr = '  {\"clickId\": 3,    \"name\": \"生铁、铁合金\"}'
+root = Node(json.loads(jsonStr))
+
 dictAll = {}
 
-for jsonObj in json:
+for jsonObj in cata:
     node = Node(jsonObj)
     dictAll[jsonObj['clickId']] = node
 
@@ -21,7 +24,10 @@ for jsonObj in json:
 for clickId, node in dictAll.items():
     if 'parentClickId' in node.data:
         dictAll[node.data['parentClickId']].add_child(node)
+    else:
+        root.add_child(node)
 
-dictAll[0].walkAndFindLeaves()
+
+root.walkAndFindLeaves()
 
 # print(path)

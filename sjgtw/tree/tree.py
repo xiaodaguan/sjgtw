@@ -1,3 +1,7 @@
+
+import json
+
+
 class Node(object):
     def __init__(self, data):
         self.data = data
@@ -19,4 +23,4 @@ class Node(object):
             for child in self.children:
                 child.walkAndFindLeaves()
         else:
-            print(self.data)
+            print(json.dumps(self.data,ensure_ascii= False)+",")
