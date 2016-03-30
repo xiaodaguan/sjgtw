@@ -13,7 +13,7 @@ DOWNLOAD_DELAY = 2
 SPIDER_MODULES = ['sjgtw.spiders']
 NEWSPIDER_MODULE = 'sjgtw.spiders'
 
-# LOG_FILE = "run.log"
+LOG_FILE = "run.log"
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 # USER_AGENT = 'sjgtw (+http://www.yourdomain.com)'

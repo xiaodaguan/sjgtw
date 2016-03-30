@@ -9,7 +9,7 @@ collection = db['sjgtw_info']
 pipeline = [
     {
         "$group":{
-            "_id":"$dataNum","count":{"$sum":1}
+            "_id":"$url","count":{"$sum":1}
         }
     }
 
